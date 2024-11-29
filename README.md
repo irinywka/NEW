@@ -1,1 +1,2 @@
 # NEW
+package-lock=false
